@@ -1,5 +1,7 @@
 # amazon-clone-boilerplate
 
+ https://bindhushree05.github.io/amazon-clone/
+
 ## Here is the expected output
 
 ![](https://github.com/Kalvium-Program/amazon-clone-boilerplate/blob/main/assets/Amazon%20home%20UI.png?raw=true)
