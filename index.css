@@ -37,7 +37,7 @@ body{
 
 .mainBody{
         
-    background-image: url("./assets/backgroundpicture.png");
+    background-image: url("/assets/background\ picture.png");
     background-size: 100% 100%;
     width: 100vw;
     height: 100vh;
@@ -126,4 +126,12 @@ a{
     display: block;
     margin: 10% auto;
     width: 80%;
+}
+
+@media only screen and (max-width: 600px) {
+    header {
+      height: 200px;
+      font-size: 15px;
+      text-align: start;
+    }
 }
